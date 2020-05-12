@@ -1,2 +1,2 @@
 # Tropi_C_Radar
-Source code for generating long-term C-band radar data over global tropics.
+Data and codes for generating long-term (1992-now) C-band radar data set for global tropical rainforests.
