@@ -2,9 +2,9 @@
 
 %%%    This code requires several mat files as input, which can be downloaded at figshare: xxxx.
 %%%    Specially, 
-%%%    1. We provided mat files for monthly radar data of ERS, QSCAT and ASCAT covering an extent from 25N to 25S. Raw radar images were downloaded from xx and xx.
-%%%       We processed the images into a monthly time step and a rsoltuion of 25km. 
-%%%    2. The center latitudes, longitudes,  ids, and  area of all 25km sized pixels were also provided.
+%%%    1. We provided mat files for monthly radar data of ERS, QSCAT and ASCAT covering an extent from 25N to 25S. Raw radar images were downloaded from eumetsat and BYU.
+%%%       We processed the images into a monthly time step and a resolution of 25km. 
+%%%    2. The center latitudes, longitudes, ids, and area of all 25km sized pixels were also provided.
 %%%    3. The land cover type (based on ESA CCI 2015 map), deforestation ratio (based on Hansen's maps), TRMM monthly precipitation, and CHIRPS monthly precipitation of each pixel were also calcualted and provided as mat files.
 
 %%%    In the codes, all the mat files were put into a folder named as "mat"
@@ -19,8 +19,6 @@ clear
 
 warning off
 addpath('D:\OneDrive\Drought')
-% addpath('D:\OneDrive\Drought\outlier_codes')
-% addpath('D:\OneDrive\Drought\QMAPP')
 
 
 load ./mat/Americas_tropical_belt_fishnet
