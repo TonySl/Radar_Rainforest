@@ -1,6 +1,6 @@
 # C-band Radar and rainforests
 Data and codes for generating long-term (1992-2018) C-band radar data set for global tropical rainforests.
-Data related to the scripts are available at:
+Mat files related to the scripts are available at:
 
 
 
