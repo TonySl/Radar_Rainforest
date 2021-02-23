@@ -1,7 +1,6 @@
 %% 
 %
 % This script will create Fig. 2 in Tao et al. 
-% All input (and output) files can be downloaded at: xxxxx
 
 % Author: Shengli Tao
 % Email: sltao1990@gmail.com
