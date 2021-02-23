@@ -4,7 +4,7 @@
 
 
                                                %%%%%% Project Radar_Rainforest %%%%%%  
-Until 2021.02, there has been no well-calibrated C-band microwave (either active or passive) data set covering a long time span.   
+Until 2021.02, there has been no well-calibrated C-band microwave (either active or passive) data set for global vegetated areas covering a long time span.   
 
 There have been passive microwave data (C-band included) from AMSR-E and AMSR2 covering a relatively long time span (since 2002), but the two didn't overlap temporally. Hence, merging them with a full calibration has not been possible (Du et al. 2017. Earth Syst. Sci. Data 9, 791–808; Moesinger et al. 2020. Earth Syst. Sci. Data 12, 177–196).   
 
