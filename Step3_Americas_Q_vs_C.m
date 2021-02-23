@@ -2,7 +2,6 @@
 %
 % All ERS and QSCAT data have been scaled against ASCAT.
 % This script will further address the monthly difference between C-band (ERS, ASCAT) and Ku-band (QSCAT) data, per pixel (25km * 25km)
-% The input files can be downloaded at: xxxxx
 
 % Author: Shengli Tao
 % Email: sltao1990@gmail.com
