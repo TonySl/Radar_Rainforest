@@ -3,7 +3,7 @@
 ![C-band Radar sensors for monitoring tropical forests--key to a successful paris agreement](images/radar_forest.png)
 
 
-                                                 %%%%%%   %%%%%%  
+                                                 %%%%%%%%%%%%%%%  
 # Radar_Rainforest <br/>
 Until February 2021, there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).   
 
