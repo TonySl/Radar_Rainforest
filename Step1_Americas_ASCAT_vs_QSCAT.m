@@ -1,6 +1,6 @@
 %%
 % This script will scale QSCAT against ASCAT data, per pixel (25km * 25km)
-% The input (and output) files can be downloaded at:  https://filesender.renater.fr/?s=download&token=c0cb8523-76ab-4190-96f3-8cc260c2a67b
+% The input (and output) files can be downloaded at: https://filesender.renater.fr/?s=download&token=43382968-3b4e-43a4-8bbb-e23602b90229
 % Tropical Americas was used as an example here, but all input (and output) data for tropical Africa and Asia were also provided.
 
 % Author: Shengli Tao
