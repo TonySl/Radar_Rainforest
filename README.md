@@ -18,7 +18,7 @@ Mat files related to the scripts will be made publicly available after peer revi
 
    --------------------------  
    
-# Shengli Tao <br/>
+Shengli Tao <br/>
 sltao1990@gmail.com <br/>
 sltao@pku.edu.cn <br/>
 https://scholar.google.com/citations?user=7NJkU6cAAAAJ&hl=en
