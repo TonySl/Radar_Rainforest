@@ -12,7 +12,7 @@
 **The aim of the project Radar Rainforest is**<br/> to provide a calibrated, long-term (since 1992) C-band radar data set for global land areas (currently focusing on tropical rainforests). C-band ERS (1992-2001) and ASCAT (since 2007) data were bridged using Ku-band QuikSCAT data (1999-2009). Several C-band satellite missions are operating (such as Sentinel-1 and ASCAT). Our data set therefore can be extended into future.
 
                    --------------------------  
-**This site provides the Matlab scripts for generating the harmonized long-term (since 1992) C-band radar data set for global tropical rainforests.  
+**This site provides the Matlab scripts for generating the harmonized long-term (since 1992) C-band radar data set for global tropics.  
 Mat files related to the scripts can be downloaded at:**<br/> https://xxxx
 
 
