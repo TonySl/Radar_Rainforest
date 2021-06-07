@@ -19,5 +19,4 @@ Mat files related to the scripts can be downloaded at:**<br/> https://filesender
 Reference: Tao et al. Submitted 20 July 2020.  Revised 22 February 2021.
 
 Shengli Tao <br/>
-sltao1990@gmail.com <br/>
-https://edb.cnrs.fr/annuaire/shengli-tao/
+22 February, 2021
