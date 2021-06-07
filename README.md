@@ -16,7 +16,8 @@
 Mat files related to the scripts can be downloaded at:**<br/> https://xxxx
 
    --------------------------  
-   
+Tao et al. Submitted 20 July 2020.  
+
 Shengli Tao <br/>
 sltao1990@gmail.com <br/>
 https://edb.cnrs.fr/annuaire/shengli-tao/
