@@ -5,7 +5,7 @@
 
                                                                            
 # Radar Rainforest <br/>
-**Until June 2021, there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
+**Until February 2021 (when revision of Tao et al. was submitted), there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
 
                    --------------------------  
 
@@ -13,10 +13,10 @@
 
                    --------------------------  
 **This site provides the Matlab scripts for generating the harmonized long-term (since 1992) C-band radar data set for global tropical rainforests.  
-Mat files related to the scripts can be downloaded at:**<br/> https://xxxx
+Mat files related to the scripts can be downloaded at:**<br/> https://filesender.renater.fr/?s=download&token=11fde0f5-6f78-4509-b415-6f9645496998
 
    --------------------------  
-Tao et al. Submitted 20 July 2020.  
+Tao et al. Submitted 20 July 2020.  Revised 22 February 2021.
 
 Shengli Tao <br/>
 sltao1990@gmail.com <br/>
