@@ -16,7 +16,7 @@
 Mat files related to the scripts can be downloaded at:**<br/> https://filesender.renater.fr/?s=download&token=11fde0f5-6f78-4509-b415-6f9645496998
 
    --------------------------  
-Tao et al. Submitted 20 July 2020.  Revised 22 February 2021.
+Reference: Tao et al. Submitted 20 July 2020.  Revised 22 February 2021.
 
 Shengli Tao <br/>
 sltao1990@gmail.com <br/>
