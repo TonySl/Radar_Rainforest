@@ -5,7 +5,7 @@
 
                                                                            
 # Radar Rainforest <br/>
-**Until February 2021 (when a revision of Tao et al. was submitted), there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
+**Until June 2021, there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
 
                    --------------------------  
 
@@ -17,6 +17,6 @@ Mat files related to the scripts can be downloaded at:**<br/> https://filesender
 
    --------------------------  
 Shengli Tao <br/>
-22 February, 2021
+8 June, 2021
 
-Reference: Tao et al. Submitted 20 July 2020.  Revised 22 February & 8 June 2021.
+Reference: Tao et al. Submitted 20 July 2020.  Revised 22 February, 3 May, and 21 May 2021.
