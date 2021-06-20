@@ -25,4 +25,7 @@ Tao et al. Submitted 20 July 2020.  Revised 22 February, 3 May & 21 May 2021.
 # Contact <br/>
 Shengli Tao <br/>
 sltao1990@gmail.com <br/>
-https://edb.cnrs.fr/annuaire/shengli-tao/
+
+# Link <br/>
+[Google scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) <br/>
+[EDB Lab](https://edb.cnrs.fr/annuaire/shengli-tao/) 
