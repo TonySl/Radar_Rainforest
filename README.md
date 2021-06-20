@@ -27,5 +27,5 @@ Shengli Tao <br/>
 sltao1990@gmail.com <br/>
 
 # Link <br/>
-[Google Scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) <br/>
-[EDB Lab](https://edb.cnrs.fr/annuaire/shengli-tao/) 
+[Shengli Tao on Google Scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) <br/>
+[Shengli Tao in EDB Lab](https://edb.cnrs.fr/annuaire/shengli-tao/) 
