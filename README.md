@@ -5,7 +5,7 @@
 
                                                                            
 # Radar Rainforest <br/>
-**Until June 2021, there has been no well-calibrated C-band microwave (either active or passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
+**Until June 2021, there has been no well-calibrated C-band microwave (neither active nor passive) data set which measures the structure/moisture of global forests and covers a long time span (since 2000s or earlier).**<br/>   
 
                    --------------------------  
 
@@ -27,5 +27,5 @@ Shengli Tao <br/>
 sltao1990@gmail.com <br/>
 
 # Link <br/>
-[Google scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) <br/>
+[Google Scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) <br/>
 [EDB Lab](https://edb.cnrs.fr/annuaire/shengli-tao/) 
