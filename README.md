@@ -13,7 +13,7 @@
 
                    --------------------------  
 **This site provides the Matlab scripts for generating the harmonized long-term (since 1992) C-band radar data set for global tropical rainforests.  
-Mat files related to the scripts can be downloaded at:**<br/> https://filesender.renater.fr/?s=download&token=88a23129-9ae1-43bf-add4-c23bafe52aba
+Mat files related to the scripts can be downloaded at:**<br/> https://doi.org/10.6084/m9.figshare.14061428.v3
 
    --------------------------  
 Shengli Tao <br/>
