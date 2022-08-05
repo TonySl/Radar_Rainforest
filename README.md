@@ -20,7 +20,7 @@ Shengli Tao <br/>
 19 July, 2022
 
 # Reference <br/>
-Tao et al. 2022. PNAS. Acccepted.
+Tao et al. 2022. PNAS. Accepted.
 
 # Contact <br/>
 Shengli Tao <br/>
